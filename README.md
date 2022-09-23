@@ -1,1 +1,1 @@
-# object_detection_retinanet
+Unofficial implementation of [Focal Loss for Dense Object Detection]
